@@ -1,7 +1,5 @@
 streamlit
-sklearn
+scikit-learn
 pandas
 numpy
 nltk
-stopwords
-punkt
